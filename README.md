@@ -1,0 +1,2 @@
+# README-TECHMIND
+TECHMIND homework
